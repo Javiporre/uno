@@ -205,5 +205,7 @@ http://90.84.239.196:8806/play/a00i/index.m3u8
 http://90.84.239.196:8806/play/a00n/index.m3u8
 #EXTINF:-1,Warner TV HD
 http://90.84.239.196:8806/play/a00q/index.m3u8
-#EXTINF:-1,ZU TV HD
-http://90.84.239.196:8806/play/a05l/index.m3u8
+#EXTINF:-1,Movistar Deportes
+http://179.43.82.250:8000/play/a08o/index.m3u8
+#EXTINF:-1,Movistar Liga Campeones
+http://168.228.194.32:58001/play/a0bi/index.m3u8
