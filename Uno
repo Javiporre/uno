@@ -1,11 +1,523 @@
 #EXTM3U
-#EXTINF:-1,ES: LIGATV SD
-http://c2z.me:8000/fernando2018/fernando2019/30119
-#EXTINF:-1,ES: LIGA DE CAMPEONES4  Espa
-http://c2z.me:8000/fernando2018/fernando2019/30120
-#EXTINF:-1,ES: LIGA TV HD
-http://c2z.me:8000/fernando2018/fernando2019/30024
-#EXTINF:-1,ES: LIGA CAMPEONES 2 HD
-http://c2z.me:8000/fernando2018/fernando2019/30026
-#EXTINF:-1,ES: LIGA CAMPEONES HD
-http://c2z.me:8000/fernando2018/fernando2019/30025
+#EXTINF:-1 group-title="ESPAÑA",#0
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2146
+#EXTINF:-1 group-title="ESPAÑA",ES: 101 Tele Antequera
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/285722
+#EXTINF:-1 group-title="ESPAÑA",ES: 101 TV Malaga
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/146345
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7d6d9bf832a0b925f5ec4de7d91dcd96.png" group-title="ESPAÑA",ES: Antena 3
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1173
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8e1f33920e5a5e1832ddd8fb7e69ee3a.png" group-title="ESPAÑA",ES: Canal 24 Horas
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2216
+#EXTINF:-1 group-title="ESPAÑA",ES: Canal 33
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/64938
+#EXTINF:-1 group-title="ESPAÑA",ES: Canal Extremadura
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/11776
+#EXTINF:-1 group-title="ESPAÑA",ES: Canal Malaga
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/12139
+#EXTINF:-1 group-title="ESPAÑA",ES: Canal Sur Andalucia
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2191
+#EXTINF:-1 group-title="ESPAÑA",ES: CostadelSol TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/295246
+#EXTINF:-1 group-title="ESPAÑA",ES: Cuatro
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1163
+#EXTINF:-1 group-title="ESPAÑA",ES: El Toro TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/201928
+#EXTINF:-1 group-title="ESPAÑA",ES: La Otra
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/145616
+#EXTINF:-1 group-title="ESPAÑA",ES: La Sexta
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1152
+#EXTINF:-1 group-title="ESPAÑA",ES: Telecinco
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1133
+#EXTINF:-1 group-title="ESPAÑA",ES: TeleMadrid
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298747
+#EXTINF:-1 group-title="ESPAÑA",ES: Trece TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/60943
+#EXTINF:-1 group-title="ESPAÑA",ES: 7 Noticias
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/283875
+#EXTINF:-1 group-title="ESPAÑA",ES: A&E
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/7731
+#EXTINF:-1 group-title="ESPAÑA",ES: Alcarria TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/12153
+#EXTINF:-1 group-title="ESPAÑA",ES: Bailen TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/285732
+#EXTINF:-1 group-title="ESPAÑA",ES: Be Mad
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2213
+#EXTINF:-1 group-title="ESPAÑA",ES: Blaze
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/5303
+#EXTINF:-1 group-title="ESPAÑA",ES: Canal 25 Barbastro
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/146340
+#EXTINF:-1 group-title="ESPAÑA",ES: Canal Cocina
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1167
+#EXTINF:-1 group-title="ESPAÑA",ES: Canal Odisea
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2194
+#EXTINF:-1 group-title="ESPAÑA",ES: Caza y Pesca
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1165
+#EXTINF:-1 group-title="ESPAÑA",ES: CNN en Espanol
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/31762
+#EXTINF:-1 group-title="ESPAÑA",ES: Comedy Central
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1164
+#EXTINF:-1 group-title="ESPAÑA",ES: D Kiss
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/9356
+#EXTINF:-1 group-title="ESPAÑA",ES: Dark
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/121514
+#EXTINF:-1 group-title="ESPAÑA",ES: Decasa
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2771
+#EXTINF:-1 group-title="ESPAÑA",ES: Discovery World
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1162
+#EXTINF:-1 group-title="ESPAÑA",ES: Distrito TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/201938
+#EXTINF:-1 group-title="ESPAÑA",ES: Divinity
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2795
+#EXTINF:-1 group-title="ESPAÑA",ES: DMAX
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2762
+#EXTINF:-1 group-title="ESPAÑA",ES: Energy
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2217
+#EXTINF:-1 group-title="ESPAÑA",ES: ETB 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/165969
+#EXTINF:-1 group-title="ESPAÑA",ES: Factoria de Ficcion
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2207
+#EXTINF:-1 group-title="ESPAÑA",ES: Galicia TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2192
+#EXTINF:-1 group-title="ESPAÑA",ES: Hamaika Telebista
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/285762
+#EXTINF:-1 group-title="ESPAÑA",ES: Historia
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1155
+#EXTINF:-1 group-title="ESPAÑA",ES: Hola TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/3061
+#EXTINF:-1 group-title="ESPAÑA",ES: Imas TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/269931
+#EXTINF:-1 group-title="ESPAÑA",ES: Inter Almeria
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/81640
+#EXTINF:-1 group-title="ESPAÑA",ES: LA 7
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/285768
+#EXTINF:-1 group-title="ESPAÑA",#V
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/297242
+#EXTINF:-1 group-title="ESPAÑA",ES: Maestrat TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/285784
+#EXTINF:-1 group-title="ESPAÑA",ES: Marbella TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/174751
+#EXTINF:-1 group-title="ESPAÑA",ES: Mega
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2190
+#EXTINF:-1 group-title="ESPAÑA",ES: Melilla TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/270089
+#EXTINF:-1 group-title="ESPAÑA",ES: MOVISTAR Cine Espanol
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/64788
+#EXTINF:-1 group-title="ESPAÑA",ES: MOVISTAR La Resistencia
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/286800
+#EXTINF:-1 group-title="ESPAÑA",ES: Mundotoro
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298810
+#EXTINF:-1 group-title="ESPAÑA",ES: NAT GEO
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1138
+#EXTINF:-1 group-title="ESPAÑA",ES: NAT GEO Wild
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1137
+#EXTINF:-1 group-title="ESPAÑA",ES: Nature Time
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298751
+#EXTINF:-1 group-title="ESPAÑA",ES: Oizmendi Telebista
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/285790
+#EXTINF:-1 group-title="ESPAÑA",ES: Onda Algeciras TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/269932
+#EXTINF:-1 group-title="ESPAÑA",ES: Onda Cadiz
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/66953
+#EXTINF:-1 group-title="ESPAÑA",ES: Popular TV Cantabria
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/285794
+#EXTINF:-1 group-title="ESPAÑA",ES: Popular TV Melilla
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/270090
+#EXTINF:-1 group-title="ESPAÑA",ES: Real Madrid TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1136
+#EXTINF:-1 group-title="ESPAÑA",ES: RT Español
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/166663
+#EXTINF:-1 group-title="ESPAÑA",ES: Somos
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/16274
+#EXTINF:-1 group-title="ESPAÑA",ES: Sundance TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2757
+#EXTINF:-1 group-title="ESPAÑA",ES: Teleonuba
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/145619
+#EXTINF:-1 group-title="ESPAÑA",ES: TNT
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2187
+#EXTINF:-1 group-title="ESPAÑA",ES: Toros TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1132
+#EXTINF:-1 group-title="ESPAÑA",ES: TV 4 La Vall
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/270092
+#EXTINF:-1 group-title="ESPAÑA",ES: TV Castilla La Mancha
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/169000
+#EXTINF:-1 group-title="ESPAÑA",ES: TV3 Catalunya
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/9367
+#EXTINF:-1 group-title="ESPAÑA",ES: TVE Internacional América 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/49480
+#EXTINF:-1 group-title="ESPAÑA",ES: TVE La 1 Madrid
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1151
+#EXTINF:-1 group-title="ESPAÑA",ES: TVE La 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1150
+#EXTINF:-1 group-title="ESPAÑA",ES: TVG 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/281802
+#EXTINF:-1 group-title="ESPAÑA",ES: TVG Cultural
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/71536
+#EXTINF:-1 group-title="ESPAÑA",ES: TVG Infantil
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/281806
+#EXTINF:-1 group-title="ESPAÑA",ES: TVG Musigal
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/281808
+#EXTINF:-1 group-title="SPORT",ES: beIN Sports Xtra en Espanol
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/281493
+#EXTINF:-1 group-title="SPORT",ES: DAZN 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/64711
+#EXTINF:-1 group-title="SPORT",ES: DAZN 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/64712
+#EXTINF:-1 group-title="SPORT",ES: DAZN 3
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/269912
+#EXTINF:-1 group-title="SPORT",ES: DAZN 4
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/269911
+#EXTINF:-1 group-title="SPORT",ES: DAZN F1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1672
+#EXTINF:-1 group-title="SPORT",ES: DAZN LaLiga
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/297787
+#EXTINF:-1 group-title="SPORT",ES: DAZN LaLiga 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298745
+#EXTINF:-1 group-title="SPORT",ES: ESPN
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/90708
+#EXTINF:-1 group-title="SPORT",ES: ESPN 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/281480
+#EXTINF:-1 group-title="SPORT",ES: ESPN 3
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/281403
+#EXTINF:-1 group-title="SPORT",ES: ESPN Deportes
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/281417
+#EXTINF:-1 group-title="SPORT",ES: EUROSPORT 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1160
+#EXTINF:-1 group-title="SPORT",ES: Gol Play
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/297246
+#EXTINF:-1 group-title="SPORT",ES: La Liga Highlights
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298804
+#EXTINF:-1 group-title="SPORT",ES: Laliga Smartbank TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/297788
+#EXTINF:-1 group-title="SPORT",ES: Laliga Smartbank TV 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/297791
+#EXTINF:-1 group-title="SPORT",ES: Laliga Smartbank TV 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/297790
+#EXTINF:-1 group-title="SPORT",ES: Laliga Smartbank TV 3
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/297789
+#EXTINF:-1 group-title="SPORT",ES: LaLiga TV Bar
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/197711
+#EXTINF:-1 group-title="SPORT",ES: Movistar Deportes
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/227121
+#EXTINF:-1 group-title="SPORT",ES: Movistar Deportes 5
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/285690
+#EXTINF:-1 group-title="SPORT",ES: Movistar Deportes 6
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/198066
+#EXTINF:-1 group-title="SPORT",ES: MOVISTAR Golf
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1142
+#EXTINF:-1 group-title="SPORT",ES: MOVISTAR LaLiga
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1141
+#EXTINF:-1 group-title="SPORT",ES: MOVISTAR LaLiga 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/5311
+#EXTINF:-1 group-title="SPORT",ES: MOVISTAR LaLiga 3
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/281772
+#EXTINF:-1 group-title="SPORT",ES: MOVISTAR LaLiga 4
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/269466
+#EXTINF:-1 group-title="SPORT",ES: MOVISTAR LaLiga 5
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/281792
+#EXTINF:-1 group-title="SPORT",ES: MOVISTAR LIGA DE CAMPEONES
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2800
+#EXTINF:-1 group-title="SPORT",ES: MOVISTAR LIGA DE CAMPEONES 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/81096
+#EXTINF:-1 group-title="SPORT",ES: Movistar Liga De Campeones 3
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298805
+#EXTINF:-1 group-title="SPORT",ES: Movistar Liga De Campeones 4
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298806
+#EXTINF:-1 group-title="SPORT",ES: Movistar Liga De Campeones 5
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298807
+#EXTINF:-1 group-title="SPORT",ES: Movistar Liga De Campeones 6
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298808
+#EXTINF:-1 group-title="SPORT",ES: Movistar Liga De Campeones 7
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/146661
+#EXTINF:-1 group-title="SPORT",ES: Multideporte
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/8110
+#EXTINF:-1 group-title="SPORT",ES: Teledeporte
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2774
+#EXTINF:-1 group-title="SPORT",FR: beIN Sports 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/145
+#EXTINF:-1 group-title="SPORT",FR: beIN Sports Max 4
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/3599
+#EXTINF:-1 group-title="SPORT",FR: beIN Sports Max 5
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/6083
+#EXTINF:-1 group-title="SPORT",FR: beIN Sports Max 6
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/4368
+#EXTINF:-1 group-title="SPORT",FR: beIN Sports Max 7
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/4369
+#EXTINF:-1 group-title="SPORT",FR: beIN Sports Max 8
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/4370
+#EXTINF:-1 group-title="SPORT",FR: beIN Sports Max 9
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/4371
+#EXTINF:-1 group-title="SPORT",FR: beIN Sports Max 10
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/6088
+#EXTINF:-1 group-title="SPORT",FR: CANAL+ Formula 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298740
+#EXTINF:-1 group-title="SPORT",FR: CANAL+ FORMULE 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/295260
+#EXTINF:-1 group-title="SPORT",FR: CANAL+ MotoGP
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/297423
+#EXTINF:-1 group-title="SPORT",FR: CANAL+ Sport
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/143
+#EXTINF:-1 group-title="SPORT",FR: CANAL+ Sport 3
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/291177
+#EXTINF:-1 group-title="SPORT",FR: CANAL+ Sport 4
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/297381
+#EXTINF:-1 group-title="SPORT",FR: CANAL+ Sport 5
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/291178
+#EXTINF:-1 group-title="SPORT",FR: CANAL+ Sport 360
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/297378
+#EXTINF:-1 group-title="SPORT",FR: RMC SPORT 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1937
+#EXTINF:-1 group-title="SPORT",FR: RMC SPORT 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1938
+#EXTINF:-1 group-title="SPORT",FR: RMC SPORT 3
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/279991
+#EXTINF:-1 group-title="SPORT",FR: RMC SPORT 4
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/279752
+#EXTINF:-1 group-title="SPORT",FR: RMC SPORT 5
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1940
+#EXTINF:-1 group-title="SPORT",FR: RMC SPORT 7
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/20883
+#EXTINF:-1 group-title="SPORT",FR: RMC SPORT 10
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/192025
+#EXTINF:-1 group-title="SPORT",FR: Sport
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/187484
+#EXTINF:-1 group-title="SPORT",FR: Motorvision TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/268514
+#EXTINF:-1 group-title="SPORT",FR: MultiSports 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/290572
+#EXTINF:-1 group-title="SPORT",FR: MultiSports 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/290573
+#EXTINF:-1 group-title="SPORT",FR: MultiSports 3
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/290574
+#EXTINF:-1 group-title="SPORT",FR: MultiSports 4
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/290575
+#EXTINF:-1 group-title="SPORT",FR: MultiSports 5
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/290576
+#EXTINF:-1 group-title="SPORT",HR: Arena Sport 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/3601
+#EXTINF:-1 group-title="SPORT",HR: Arena Sport 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/3603
+#EXTINF:-1 group-title="SPORT",HR: Arena Sport 3
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/3605
+#EXTINF:-1 group-title="SPORT",HR: Arena Sport 4
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/3607
+#EXTINF:-1 group-title="SPORT",HR: Arena Sport 5
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/3608
+#EXTINF:-1 group-title="SPORT",HR: Arena Sport 6
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/10961
+#EXTINF:-1 group-title="SPORT",HR: Arena Sport 10
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/286740
+#EXTINF:-1 group-title="SPORT",HR: Sport Klub 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/3473
+#EXTINF:-1 group-title="SPORT",HR: Sport Klub 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/279841
+#EXTINF:-1 group-title="SPORT",HR: Sport Klub 3
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/279840
+#EXTINF:-1 group-title="SPORT",HR: Sport Klub 4
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/279839
+#EXTINF:-1 group-title="SPORT",HR: Sport Klub 5
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/26662
+#EXTINF:-1 group-title="SPORT",HR: Sport Klub FIGHT
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/67741
+#EXTINF:-1 group-title="SPORT",HR: Sportska TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/4206
+#EXTINF:-1 group-title="SPORT",IL: Eurosport 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298078
+#EXTINF:-1 group-title="SPORT",IL: Sport 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/14785
+#EXTINF:-1 group-title="SPORT",HU: EUROSPORT 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/72610
+#EXTINF:-1 group-title="SPORT",HU: EUROSPORT 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/56762
+#EXTINF:-1 group-title="SPORT",HU: M4 Sport
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/47708
+#EXTINF:-1 group-title="SPORT",HU: M4 Sport +
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298614
+#EXTINF:-1 group-title="SPORT",HU: Sport 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/14987
+#EXTINF:-1 group-title="SPORT",HU: Sport 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/14988
+#EXTINF:-1 group-title="SPORT",PH: beIN Sports 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/282772
+#EXTINF:-1 group-title="SPORT",PH: beIN Sports 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/282773
+#EXTINF:-1 group-title="SPORT",PH: Bloomberg TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/144834
+#EXTINF:-1 group-title="SPORT",ID: beIN Sports 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/165105
+#EXTINF:-1 group-title="SPORT",ID: beIN Sports 3
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298506
+#EXTINF:-1 group-title="SPORT",ID: Fight Sport
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298531
+#EXTINF:-1 group-title="SPORT",ID: NBA TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298558
+#EXTINF:-1 group-title="SPORT",QA: beIN Sports 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/101
+#EXTINF:-1 group-title="SPORT",QA: beIN Sports 3
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/102
+#EXTINF:-1 group-title="SPORT",QA: beIN Sports 4
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/103
+#EXTINF:-1 group-title="SPORT",QA: beIN Sports 5
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/104
+#EXTINF:-1 group-title="SPORT",QA: beIN Sports 6
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/105
+#EXTINF:-1 group-title="SPORT",QA: beIN Sports 7
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/106
+#EXTINF:-1 group-title="SPORT",QA: beIN Sports Premium 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/109
+#EXTINF:-1 group-title="SPORT",QA: beIN Sports Premium 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/280145
+#EXTINF:-1 group-title="SPORT",QA: beIN Sports Premium 3
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/280249
+#EXTINF:-1 group-title="SPORT",QA: beIN Sports Xtra 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/290037
+#EXTINF:-1 group-title="SPORT",QA: beIN Sports Xtra 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/283294
+
+
+#EXTINF:-1 group-title="MUSICA",RO: Hora TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/19906
+#EXTINF:-1 group-title="MUSICA",RO: Rapsodia TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/73438
+#EXTINF:-1 group-title="MUSICA",GR: Baraza Music TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/146634
+#EXTINF:-1 group-title="MUSICA",AL: ALB Music
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/44994
+#EXTINF:-1 group-title="MUSICA",AL: BBF Music TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/4041
+#EXTINF:-1 group-title="MUSICA",EX-YU: DOBRA
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/197589
+#EXTINF:-1 group-title="MUSICA",EX-YU: DOBRA CRNOGORSKA
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/198532
+#EXTINF:-1 group-title="MUSICA",EX-YU: DOBRA EXCLUSIVE
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/295227
+#EXTINF:-1 group-title="MUSICA",EX-YU: DOBRA HRVATSKA
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/295229
+#EXTINF:-1 group-title="MUSICA",EX-YU: DOBRA MUZICKA
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/295225
+#EXTINF:-1 group-title="MUSICA",RS: Bravo Music
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/67550
+#EXTINF:-1 group-title="MUSICA",RS: Grand
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/4158
+#EXTINF:-1 group-title="MUSICA",RS: Pink Folk 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/3444
+#EXTINF:-1 group-title="MUSICA",RS: Pink Folk 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/3445
+#EXTINF:-1 group-title="MUSICA",RS: RTS Muzika
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/57857
+#EXTINF:-1 group-title="MUSICA",HR: Jugoton TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/20223
+#EXTINF:-1 group-title="MUSICA",HR: Plava Vinkovačka
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/279243
+#EXTINF:-1 group-title="MUSICA",HR: Zapad TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/295251
+#EXTINF:-1 group-title="MUSICA",MK: Folk TB
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/290357
+#EXTINF:-1 group-title="MUSICA",MK: Sky Folk TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/13489
+#EXTINF:-1 group-title="MUSICA",MK: Star Folk 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/296749
+#EXTINF:-1 group-title="MUSICA",IL: 5 Live
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/91281
+#EXTINF:-1 group-title="MUSICA",IL: Channel 24
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/283819
+#EXTINF:-1 group-title="MUSICA",BIH: Alfa TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/65942
+#EXTINF:-1 group-title="MUSICA",BIH: BN Music
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/4137
+#EXTINF:-1 group-title="MUSICA",BIH: Elta 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/267611
+#EXTINF:-1 group-title="MUSICA",BIH: Hayat Folk
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/3460
+#EXTINF:-1 group-title="MUSICA",BIH: Hayat Music
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/10691
+#EXTINF:-1 group-title="MUSICA",BIH: Sehara TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/4212
+#EXTINF:-1 group-title="MUSICA",BIH: Sevdah TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/10744
+#EXTINF:-1 group-title="MUSICA",BIH: Super TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/58946
+#EXTINF:-1 group-title="MUSICA",HU: AMC
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/72597
+#EXTINF:-1 group-title="MUSICA",HU: Music Channel
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/18820
+#EXTINF:-1 group-title="MUSICA",BG: Fen Folk
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/16415
+#EXTINF:-1 group-title="MUSICA",BG: Folklor TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/4054
+#EXTINF:-1 group-title="MUSICA",BG: Planeta Folk
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/36344
+#EXTINF:-1 group-title="MUSICA",BG: Planeta TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/13885
+#EXTINF:-1 group-title="MUSICA",BG: Rodina
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/32041
+#EXTINF:-1 group-title="MUSICA",BG: Roma TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/63040
+#EXTINF:-1 group-title="MUSICA",BG: Tiankov Folk
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/16414
+#EXTINF:-1 group-title="MUSICA",BG: Tiankov Orient Folk
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/294984
+#EXTINF:-1 group-title="MUSICA",BG: TV 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/25858
+#EXTINF:-1 group-title="MUSICA",ID: Music TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/165108
+#EXTINF:-1 group-title="MUSICA",SA: Rotana Music
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1222
+#EXTINF:-1 group-title="FRANCE",FR: 6ter
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/183
+#EXTINF:-1 group-title="FRANCE",FR: A+
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/53672
+#EXTINF:-1 group-title="FRANCE",FR: AB 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/165
+#EXTINF:-1 group-title="FRANCE",FR: AB 3
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/878
+#EXTINF:-1 group-title="FRANCE",FR: AB Xplore
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/23418
+#EXTINF:-1 group-title="FRANCE",FR: Alsace 20
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/53681
+#EXTINF:-1 group-title="FRANCE",FR: AMAZON DIMANCHE SOIR FOOTBALL
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298717
+#EXTINF:-1 group-title="FRANCE",FR: Automoto
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/148
+#EXTINF:-1 group-title="FRANCE",FR: BET
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/184
+#EXTINF:-1 group-title="FRANCE",FR: BFM Lyon
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/286500
+#EXTINF:-1 group-title="FRANCE",FR: BFM Paris
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/167
+#EXTINF:-1 group-title="FRANCE",FR: Box Office 8
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/42226
+#EXTINF:-1 group-title="FRANCE",FR: C Star
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1900
+#EXTINF:-1 group-title="FRANCE",FR: C Star Hits France
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/281600
+#EXTINF:-1 group-title="FRANCE",FR: Canal Savoir
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/9296
+#EXTINF:-1 group-title="FRANCE",FR: CANAL+
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/170
+#EXTINF:-1 group-title="FRANCE",FR: CANAL+ First
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298739
+#EXTINF:-1 group-title="FRANCE",FR: Comedie+
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/180
+#EXTINF:-1 group-title="FRANCE",FR: Discovery Science
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/186
+#EXTINF:-1 group-title="FRANCE",FR: EMCI TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/165033
+#EXTINF:-1 group-title="FRANCE",FR: FRANCE 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/154
+#EXTINF:-1 group-title="FRANCE",FR: FRANCE 3
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/155
+#EXTINF:-1 group-title="FRANCE",FR: FRANCE 4
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/156
+#EXTINF:-1 group-title="FRANCE",FR: FRANCE 5
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/157
+#EXTINF:-1 group-title="FRANCE",FR: FRANCE 24
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/870
+#EXTINF:-1 group-title="FRANCE",FR: Mezzo
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/5355
+#EXTINF:-1 group-title="FRANCE",FR: Mezzo Live
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/8099
+#EXTINF:-1 group-title="FRANCE",FR: Olympia TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/281599
+#EXTINF:-1 group-title="FRANCE",FR: Science & Vie TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/199
